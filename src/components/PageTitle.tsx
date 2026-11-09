@@ -4,7 +4,7 @@ function PageTitle() {
       <div className="container">
         <h1 id="title" className="h2 fw-bold text-primary mb-1 d-flex align-items-center justify-content-center gap-2">
           <i className="bi bi-layers-fill" aria-hidden="true"></i>
-          COP 4331 MERN Stack Demo
+          COP 4331 MERN Stack Cards Demo
         </h1>
         <p className="text-secondary small mb-0 fw-semibold">
           Modern &amp; Accessible Card Management System
